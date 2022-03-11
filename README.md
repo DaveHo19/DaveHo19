@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaveHo19
 - 👀 I’m interested in logic solving
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on :-
 - 📫 How to reach me :-
 
